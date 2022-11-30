@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Olá, eu sou o Deivid Santos!</h1>
+<h1 align="center"> Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, eu sou o Deivid Santos!</h1>
 
 <h3 align="center"> 💻 Bachalerando em Ciência da Computação</h3>
 
