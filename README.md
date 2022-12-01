@@ -1,6 +1,6 @@
 <h1 align="center"> Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, eu sou o Deivid Santos!</h1>
 
-<h3 align="center"> 💻 Bachalerando em Ciência da Computação</h3>
+<h3 align="center"> 💻 Acadêmico de Ciência da Computação</h3>
 
 - 📚 Atualmente estudo na Universidade Federal do Ceará - UFC
 - 🌐 Atualmente estou aprendendo mais acerca de Programação Orientada a Objetos e Estruturas de Dados
