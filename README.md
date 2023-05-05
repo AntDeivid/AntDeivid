@@ -3,7 +3,7 @@
 <h3 align="center"> 💻 Acadêmico de Ciência da Computação</h3>
 
 - 📚 Atualmente estudo na Universidade Federal do Ceará - UFC
-- 🌐 Atualmente estou aprendendo mais acerca de Programação Orientada a Objetos e Estruturas de Dados
+- 🌐 Atualmente estou aprendendo mais acerca de Programação Orientada a Objetos e Estruturas de Dados Avançada
 - 🧠 Tenho bastante interesse por Inteligência Artificial e Ciência de Dados
 
 <div align="center">
